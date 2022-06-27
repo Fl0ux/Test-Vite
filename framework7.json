@@ -1,0 +1,25 @@
+{
+  "cwd": "/home/foulques/PhpstormProjects/test",
+  "type": [
+    "capacitor"
+  ],
+  "name": "My App",
+  "pkg": "io.framework7.myapp",
+  "framework": "core",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "capacitor": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
